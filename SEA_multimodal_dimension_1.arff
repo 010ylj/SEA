@@ -1,3 +1,7 @@
+%Each student's multimodal data (video, text, and log data) for one week is treated 
+%as a single sample, and the sample is labeled with three categories.label 0 represents
+%'high engagement,' label 1 represents ' moderate engagement,' and label 2 represents
+% 'low engagement'.
 @relation dimension_1_features
 
 @attribute feature_1 numeric
